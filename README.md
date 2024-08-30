@@ -1,2 +1,1 @@
-# ISEC6000-SecureDevOps
-This repository contains project files for the ISEC6000 Secure DevOps assignment
+[As_Devops.docx](https://github.com/user-attachments/files/16814985/As_Devops.docx)
